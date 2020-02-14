@@ -3,7 +3,7 @@ import java.util.*;
 
 public class topStreamingArtists {
     public static void main(String[] args) throws IOException{
-        String [][] data = new String[203][8];
+        String [][] data = new String[203][7];
         File file = new File("../data/global.csv");
 
         int  track = 0;
@@ -22,7 +22,20 @@ public class topStreamingArtists {
             track++;
         }//END outer WHILE
 
-        System.out.println("track/artist at " + data[200][2]);
-        System.out.println("track/artist at " + data[200][1]);
+        System.out.println("artist at 199" + data[200][2]);
+        System.out.println("track at 199" + data[200][1]);
+
+
+        String[] artistData = new String[artist];
+        int[] artistCount = new int[artist];
+        int[] StreamCount = new int[artist];
+        int index = 0;
+        int test = -1;
+
+        for (int i = 0; i < artist; i++) {
+            
+        }
     }//END main
+
+
 }//END class
