@@ -1,0 +1,27 @@
+# Compiled Source #
+###################
+
+*.class
+
+
+# Packages #
+############
+
+*.dmg
+*.jar
+*.rar
+*.zip
+
+
+# OS Generated Files #
+######################
+
+.DS_Store
+.DS_Store?
+._*
+.Thumbs.db
+
+# Other #
+#########
+
+*-workspace 
