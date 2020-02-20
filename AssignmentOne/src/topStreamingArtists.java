@@ -22,8 +22,8 @@ public class topStreamingArtists {
             track++;
         }//END outer WHILE
 
-        System.out.println("artist at 199" + data[200][2]);
-        System.out.println("track at 199" + data[200][1]);
+        System.out.println("artist at 1" + data[2][2]);
+        System.out.println("track at 1" + data[2][1]);
 
 
         String[] artistData = new String[artist];
@@ -32,8 +32,10 @@ public class topStreamingArtists {
         int index = 0;
         int test = -1;
 
+        System.out.println("test" + Arrays.toString(data[artist]));
         for (int i = 0; i < artist; i++) {
-            
+
+            System.out.println("test" + data[artist]);
         }
     }//END main
 
