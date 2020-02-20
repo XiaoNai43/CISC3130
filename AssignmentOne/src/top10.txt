@@ -1,0 +1,10 @@
+Eminem=18
+"Mac Miller"=12
+"Billie Eilish"=6
+"Post Malone"=6
+"Ed Sheeran"=5
+"Travis Scott"=4
+DaBaby=4
+Halsey=4
+"J Balvin"=4
+"Harry Styles"=4
