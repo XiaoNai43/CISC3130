@@ -25,3 +25,9 @@
 #########
 
 *-workspace 
+*.idea
+*.iml
+out
+*https
+*.pdf
+*.html
