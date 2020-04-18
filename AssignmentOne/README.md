@@ -33,9 +33,6 @@ This will print the results into the `topRegional` text file located in the `src
 * Code is saved into the `src` folder.
 * Data is saved into the `data` folder.
 
-# Authors
-
-* Muhammad Azhar
 
 # License
 
