@@ -1,0 +1,406 @@
+Option: 
+Print Play[L]ist | [P]lay | [R]ecent | [S]top
+P
+Now playing: *〜アスタリスク〜
+Option: 
+Print Play[L]ist | [N]ext | [R]ecent | [S]top
+N
+Now playing: 11:00 PM
+Option: 
+Print Play[L]ist | [N]ext | [R]ecent | [S]top
+N
+Now playing: 4x4ever
+Option: 
+Print Play[L]ist | [N]ext | [R]ecent | [S]top
+R
+11:00 PM
+Option: 
+Print Play[L]ist | [N]ext | [R]ecent | [S]top
+L
+Merged Playlist
+7 -Seven-
+A Dios Le Pido
+A Mover la Colita
+A-E-U-I
+About a Voyage (My Hero Academia Ending Theme Song)
+Adios
+After Dark
+Again
+Alones
+Amegafurukara Nijigaderu
+Amor de Mis Amores
+Andas En Mi Cabeza
+As If It's Your Last
+Atrévete-Te-Te
+Ay Mi Dios
+BAAM
+BBoom BBoom
+BIRTHDAY
+BLACK DRESS
+BREAKTHROUGH - Korean Ver.
+Bad Boy
+Baila Baila Baila
+Bailando - Spanish Version
+Bailar (feat. Pitbull & Elvis Crespo)
+Beautiful
+Black Or White
+Black Rover
+Blood Circulator
+Blue Bird
+Bomb - Korean Version
+Brave Shine
+Butterfly
+CORE PRIDE
+Cali Pachanguero
+Callaita
+Calma - Remix
+Catch the Moment
+Chantaje (feat. Maluma)
+Chase Me
+Checkmate
+Chica
+Chikai
+China
+Clattanoia
+Closer
+Colors
+Colors of the Heart
+Come See Me
+Con Altura
+Con Calma
+Connect
+Criminal
+Crossing Field
+DDU-DU DDU-DU - Remix
+DUELE EL CORAZON
+DUN DUN
+Dakara Hitorijyanai
+Dance The Night Away
+Danza Kuduro
+Datte Atashino Hero
+Decalcomanie
+Deja Vu
+Departure!
+Desconocidos
+Despacito - Remix
+Destiny
+Dile Que Tu Me Quieres
+Diver
+Don't Know What To Do
+Downtown
+Dramatic
+Dream lantern
+Dumb
+Dura - Remix
+Eclipse
+Egotistic
+El Matador
+El Perdón
+El Taxi
+Ella Quiere Beber - Remix
+En Barranquilla Me Quedo
+Escápate Conmigo (feat. Ozuna)
+FAITH
+FIESTA
+FLOWER - Korean Version
+FLY HIGH!!
+Fantasias
+Feel Special
+Felices los 4
+Fever
+Fire
+Flourishing
+Fly high
+Flyers
+Forever Young
+Four Seasons
+Fuego
+Gashina
+Gasolina
+Gleam
+Go!!!
+Golden Time
+Good Luck
+Good Luck
+Good Morning World!
+Gotta Go
+Gotta Go
+Goya No Machiawase
+Gravity
+Guess Who Is Back
+Gurenge
+HANN (Alone)
+HIP
+HUNTING FOR YOUR DREAM
+Half
+Hands Up
+Haruka Kanata
+Hasta el Amanecer
+Havana - Remix
+Heart Attack
+Help Me
+Heroes
+Heroine
+Hey DJ
+Hi High
+Hips Don't Lie (feat. Wyclef Jean)
+History Maker
+Hitorigoto
+Hope Not
+Hotaruno Hikari
+Hotarunohikari
+Howling
+Hush
+Hush
+Hush
+I Know You Want Me (Calle Ocho)
+I Like It
+I'm a Believer
+I'm so sick
+Ignorantes
+Imagination
+In & Out
+In The Frozen
+Iris
+Iroasenai Hitomi
+Ittekinoeikyou
+I’m So Hot
+JUSTadICE
+Jazz Bar
+Kanashii Ureshii
+Kanpeki Guu no Ne
+Karano Kokoro
+Katharsis
+Katharsis - TV Edit
+Kick It
+Kill This Love
+Kiminosei
+Kiss and Make Up
+Kiss of Death (Produced by Hyde)
+Kizuato
+Kuchizuke Diamond
+Kyouran Hey Kids!!
+L.L.L.
+LALALAY 날라리
+LATATA
+LIE 또 LIE
+LIFE
+LIKEY
+LION
+La Bicicleta
+La Bilirrubina
+La Boca - Remix
+La Bomba
+La Difícil
+La Dueña del Swing
+La Gozadera
+La Mordidita
+La Negra Tiene Tumbao
+La Tortura (feat. Alejandro Sanz)
+La Vie en Rose
+La Vie en Rose
+La rebelion
+Lemon
+Let's Get Loud
+Lil’ Touch
+Lo Que Pasó Pasó
+Loca
+Loco Contigo (feat. J. Balvin & Tyga)
+Lonely Go!
+Longhope Philia
+Lost N Found
+Love U
+Love You Like Crazy
+Lucky Ending
+MASAYUME CHASING
+MAZE
+MIA (feat. Drake)
+MORE THAN LiKE
+Magalenha
+Make My Story
+Mambo No. 5 (a Little Bit of...)
+Mayonaka No Orchestra
+Mayores
+Me Rehúso
+Melissa
+Memoria (Korean Ver.)
+Mi Gente
+Mi primer millon
+Mil Horas
+Miniskirt
+Monokuro No Kiss
+Moonlight
+Morado
+Move Ya Body
+Muévelo
+NAVILLERA
+NEVER-END TALE
+NO ONE
+NO-LIMIT
+Netsujo No Spectrum
+Niji No Sora
+Niña Bonita
+No Me Conoce - Remix
+Noir 누아르
+OOMM (Out of My Mind)
+Odd future
+Oddloop
+Olha A Explosão
+On The Floor
+Only Wonder
+Orion
+Otra vez (feat. J Balvin)
+Otro Trago - Remix
+Over
+Overfly
+Oye Mi Amor
+PAiNT it BLACK
+PIRI
+Pa' Mayté
+Paradisus-Paradoxum
+Peace Sign
+Period
+Phoenix
+Pino To Ameri
+Play Goodbye
+Polaris
+Power Up
+Primary Colors
+Psycho
+Put It Straight - Nightmare Version
+QUESTION
+Que Calor (feat. J Balvin & El Alfa)
+Que Tire Pa Lante
+Quiero Bailar
+RITMO (Bad Boys For Life)
+Rain
+Ranbu No Melody
+Re: Re:
+Re:Re: - 2016 Rerecorded
+Re:birth day
+Re:member
+Really
+Red Sun
+Reggaetón Lento (Bailemos)
+Renai Circulation
+Resolution
+Rewrite
+RiGHT NOW
+Rising Hope
+Roller Coaster
+Rumor
+Ryusei
+SAHARA
+SO HOT Remix
+SOLO
+STAY
+STRIKE BACK
+STYX HELIX
+SUBEME LA RADIO
+Safaera
+Safari
+Sakura
+Sayonara Elegy
+Scream
+Se Preparó
+Searchlight
+Season
+See U Later
+Sekaiwa Koi Ni Ochiteiru
+Senorita
+Shirushi
+Silent Night
+Silhouette
+Sin Pijama
+Siren
+Skyreach
+Snapping
+So What
+Soltera - Remix
+Sora Ni Utaeba
+Sorry
+Spark
+Staple Stable
+Starry Night
+Starry Night
+Sunrise
+Síguelo Bailando
+TING TING TING (with Oliver Heldens)
+TWIT
+Take Off
+Taki Taki
+The Day
+The Poem of Destiny
+Tiburon
+Time of Our Lives
+Touch off
+Traicionera
+Tsukino Ookisa
+Tu Cariñito
+Tusa
+Tutu
+Uh-Oh
+Unravel
+Update
+Uso
+V.I.P
+Vacaciones
+Velonica
+Ven Bailalo
+Vente Pa' Ca
+Violeta
+WANNABE
+WHISTLE
+Wanna go back
+We're the Stars
+What is Love?
+Why Don’t You Know
+Why So Lonely
+Wind flower
+Woman
+World End
+Wow Thing
+X
+X.U.
+YOU AND I
+Zenzenzense - movie ver.
+Zettai Zetsumei
+against all gods
+asphyxia
+gogobebe
+hikariare
+power of the dream
+twilight night
+veil
+ないものねだり
+にじいろ
+アルミナ
+インフェルノ
+カナデアイ
+カワキヲアメク
+ガムシャラ
+ゴールデンタイムラバー
+シュガーソングとビターステップ
+ニルバナ
+ハルカミライ
+バイバイ YESTERDAY
+ピアス
+ホタルノヒカリ(第103話〜第128話)
+僕と君のララバイ
+僕と君のララバイ
+君はロックを聴かない
+夢のような
+天上天下
+奏(かなで)
+徒花ネクロマンシー
+心の鍵
+無能
+花が咲く道
+落書きペイジ
+蒼い炎
+透明だった世界
+달라달라 (DALLA DALLA)
+피카부 Peek-A-Boo
+Option: 
+Print Play[L]ist | [N]ext | [R]ecent | [S]top
+S
