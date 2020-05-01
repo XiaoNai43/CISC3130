@@ -1,0 +1,1871 @@
+==============================
+Loading movie data.
+==============================
+Populating dictionaries with data.
+==============================
+Printing total timeframe worth of data.
+==============================
+Adventure | 1263
+Animation | 611
+Children | 664
+Comedy | 3756
+Fantasy | 779
+Romance | 1596
+Drama | 4359
+Action | 1827
+Crime | 1199
+Thriller | 1892
+Horror | 978
+Mystery | 573
+Sci-Fi | 978
+War | 382
+Musical | 334
+Documentary | 440
+IMAX | 158
+Western | 167
+Film-Noir | 87
+(no genres listed) | 26
+==============================
+Printing last 5 years worth of data.
+==============================
+Adventure | 117
+Animation | 62
+Children | 39
+Comedy | 252
+Fantasy | 64
+Romance | 46
+Drama | 224
+Action | 165
+Crime | 64
+Thriller | 133
+Horror | 69
+Mystery | 35
+Sci-Fi | 101
+War | 8
+Musical | 1
+Documentary | 44
+IMAX | 1
+Western | 7
+Film-Noir | 0
+(no genres listed) | 14
+==============================
+Release Year: 1995
+===============
+Adventure | 29
+Animation | 13
+Children | 29
+Comedy | 91
+Fantasy | 16
+Romance | 49
+Drama | 123
+Action | 44
+Crime | 33
+Thriller | 42
+Horror | 19
+Mystery | 18
+Sci-Fi | 20
+War | 14
+Musical | 4
+Documentary | 6
+IMAX | 1
+Western | 6
+Film-Noir | 1
+(no genres listed) | 2
+===============
+Release Year: 1994
+===============
+Adventure | 30
+Drama | 114
+Comedy | 111
+Romance | 41
+Mystery | 8
+Children | 24
+Fantasy | 16
+Documentary | 7
+Crime | 27
+Thriller | 35
+Horror | 15
+War | 6
+Action | 40
+Musical | 3
+Sci-Fi | 11
+Western | 7
+Animation | 12
+IMAX | 2
+Film-Noir | 1
+===============
+Release Year: 1996
+===============
+Drama | 128
+Thriller | 61
+Comedy | 108
+Crime | 32
+Romance | 53
+Action | 41
+Sci-Fi | 21
+Horror | 15
+Adventure | 35
+Children | 23
+Mystery | 10
+Musical | 9
+Documentary | 12
+Animation | 9
+Fantasy | 13
+War | 3
+Western | 1
+Film-Noir | 1
+(no genres listed) | 1
+===============
+Release Year: 1976
+===============
+Crime | 8
+Drama | 21
+Thriller | 15
+Horror | 5
+Fantasy | 3
+Mystery | 6
+Children | 3
+Comedy | 16
+Adventure | 8
+Romance | 4
+Sci-Fi | 4
+Action | 7
+Western | 2
+War | 3
+Musical | 1
+Animation | 1
+Documentary | 1
+===============
+Release Year: 1992
+===============
+Drama | 78
+Comedy | 69
+Romance | 36
+Fantasy | 9
+Film-Noir | 2
+Thriller | 32
+Action | 31
+Adventure | 12
+Animation | 8
+Children | 13
+Musical | 5
+Crime | 23
+Horror | 13
+Sci-Fi | 10
+Mystery | 5
+Western | 3
+War | 4
+Documentary | 6
+IMAX | 1
+(no genres listed) | 1
+===============
+Release Year: 1967
+===============
+Drama | 23
+Crime | 6
+Comedy | 14
+Romance | 3
+Mystery | 3
+Animation | 1
+Children | 4
+Musical | 5
+Adventure | 5
+Action | 8
+War | 1
+Horror | 4
+Sci-Fi | 3
+Western | 1
+Thriller | 5
+Fantasy | 1
+Documentary | 2
+===============
+Release Year: 1993
+===============
+Comedy | 77
+Drama | 99
+Action | 43
+Crime | 20
+Horror | 12
+Film-Noir | 1
+Thriller | 32
+Musical | 4
+Documentary | 3
+Children | 17
+Fantasy | 15
+Sci-Fi | 14
+Mystery | 12
+Romance | 33
+Adventure | 19
+Western | 3
+War | 5
+Animation | 9
+===============
+Release Year: 1964
+===============
+Drama | 17
+Musical | 6
+Romance | 7
+Comedy | 17
+War | 7
+Children | 2
+Fantasy | 5
+Mystery | 3
+Thriller | 7
+Horror | 5
+Adventure | 6
+Action | 6
+Western | 2
+Sci-Fi | 3
+Animation | 3
+Crime | 2
+Documentary | 1
+===============
+Release Year: 1977
+===============
+Action | 9
+Adventure | 12
+Sci-Fi | 4
+Animation | 6
+Children | 8
+Musical | 4
+Comedy | 21
+Romance | 6
+Horror | 8
+Fantasy | 9
+Crime | 4
+Drama | 27
+Thriller | 7
+Mystery | 3
+War | 6
+Documentary | 2
+Western | 1
+(no genres listed) | 1
+===============
+Release Year: 1965
+===============
+Action | 9
+Crime | 4
+Drama | 24
+Mystery | 4
+Romance | 9
+Sci-Fi | 4
+Thriller | 9
+Children | 4
+Comedy | 17
+Musical | 4
+War | 4
+Adventure | 9
+Horror | 3
+Western | 4
+Fantasy | 2
+Animation | 3
+===============
+Release Year: 1982
+===============
+Action | 14
+Sci-Fi | 11
+Thriller | 13
+Comedy | 32
+Musical | 8
+Romance | 12
+Drama | 29
+Children | 6
+Horror | 15
+Fantasy | 7
+Adventure | 10
+Mystery | 6
+Crime | 5
+Animation | 6
+Documentary | 5
+War | 3
+Western | 1
+===============
+Release Year: 1990
+===============
+Children | 8
+Comedy | 59
+Drama | 62
+Fantasy | 15
+Romance | 26
+Thriller | 32
+Adventure | 20
+Western | 4
+Action | 35
+Crime | 24
+Film-Noir | 2
+Documentary | 2
+Horror | 23
+Sci-Fi | 17
+Mystery | 6
+Animation | 6
+Musical | 3
+War | 8
+(no genres listed) | 1
+===============
+Release Year: 1991
+===============
+Action | 26
+Sci-Fi | 13
+Crime | 17
+Horror | 9
+Thriller | 22
+Animation | 6
+Children | 7
+Fantasy | 14
+Musical | 7
+Romance | 31
+IMAX | 1
+Adventure | 18
+Drama | 63
+Comedy | 69
+Documentary | 4
+Mystery | 10
+Western | 2
+War | 1
+===============
+Release Year: 1989
+===============
+Action | 33
+Crime | 22
+Thriller | 20
+Comedy | 71
+Adventure | 16
+Sci-Fi | 17
+Drama | 60
+Animation | 9
+Children | 9
+Romance | 16
+War | 5
+Fantasy | 13
+Horror | 11
+Documentary | 2
+Musical | 3
+Mystery | 6
+Western | 1
+Film-Noir | 1
+===============
+Release Year: 1937
+===============
+Animation | 1
+Children | 2
+Drama | 12
+Fantasy | 1
+Musical | 3
+Comedy | 3
+Romance | 4
+War | 1
+Action | 1
+Adventure | 2
+Thriller | 1
+Crime | 2
+Film-Noir | 1
+===============
+Release Year: 1940
+===============
+Animation | 2
+Children | 2
+Fantasy | 3
+Musical | 3
+Comedy | 11
+Drama | 14
+Romance | 9
+Mystery | 2
+Thriller | 3
+Film-Noir | 2
+Adventure | 3
+War | 1
+Action | 2
+Western | 2
+Sci-Fi | 2
+Horror | 1
+===============
+Release Year: 1969
+===============
+Adventure | 6
+Western | 6
+Children | 6
+Comedy | 11
+Action | 6
+Drama | 17
+Crime | 3
+Thriller | 4
+War | 4
+Romance | 4
+Fantasy | 4
+Musical | 4
+Mystery | 1
+Horror | 1
+Sci-Fi | 1
+Animation | 5
+===============
+Release Year: 1981
+===============
+Action | 20
+Adventure | 15
+Animation | 5
+Horror | 16
+Sci-Fi | 12
+Children | 3
+Drama | 31
+Thriller | 19
+War | 5
+Mystery | 7
+Romance | 9
+Comedy | 32
+Fantasy | 8
+Musical | 3
+Crime | 7
+Documentary | 2
+===============
+Release Year: 1973
+===============
+Comedy | 13
+Drama | 29
+Sci-Fi | 10
+Crime | 17
+Horror | 10
+Mystery | 3
+Thriller | 14
+Animation | 5
+Children | 3
+Film-Noir | 1
+Action | 13
+Western | 3
+Adventure | 7
+Musical | 2
+Romance | 3
+Fantasy | 2
+War | 1
+===============
+Release Year: 1970
+===============
+Animation | 3
+Children | 4
+Drama | 18
+War | 7
+Action | 5
+Sci-Fi | 1
+Western | 3
+Comedy | 10
+Romance | 4
+Mystery | 2
+Fantasy | 3
+Musical | 1
+Crime | 4
+Thriller | 5
+Adventure | 3
+Horror | 2
+===============
+Release Year: 1955
+===============
+Drama | 21
+Crime | 8
+Mystery | 4
+Romance | 8
+Thriller | 6
+Adventure | 1
+Western | 3
+Animation | 1
+Children | 1
+Comedy | 8
+Horror | 2
+Sci-Fi | 2
+Film-Noir | 4
+War | 4
+Musical | 2
+Documentary | 1
+Action | 1
+===============
+Release Year: 1959
+===============
+Drama | 15
+Horror | 7
+Action | 3
+Adventure | 5
+Mystery | 2
+Romance | 6
+Thriller | 2
+Comedy | 7
+Crime | 3
+Children | 4
+Sci-Fi | 7
+Fantasy | 1
+Animation | 1
+Musical | 2
+War | 8
+Western | 2
+===============
+Release Year: 1968
+===============
+Adventure | 9
+Comedy | 13
+Sci-Fi | 7
+Horror | 5
+Mystery | 2
+Drama | 17
+Thriller | 5
+Animation | 7
+Children | 8
+Musical | 8
+Action | 7
+Western | 3
+Crime | 4
+Romance | 4
+Fantasy | 2
+War | 3
+Documentary | 3
+(no genres listed) | 1
+===============
+Release Year: 1988
+===============
+Adventure | 18
+Animation | 11
+Children | 10
+Comedy | 72
+Musical | 6
+Action | 29
+Crime | 19
+Thriller | 29
+Documentary | 4
+Drama | 67
+Romance | 23
+Sci-Fi | 17
+Western | 2
+Horror | 24
+Fantasy | 16
+War | 7
+Mystery | 10
+Film-Noir | 1
+===============
+Release Year: 1997
+===============
+Drama | 125
+Romance | 51
+Comedy | 94
+Horror | 18
+Thriller | 64
+Crime | 33
+Mystery | 21
+Children | 25
+Action | 51
+War | 7
+Fantasy | 15
+Film-Noir | 4
+Sci-Fi | 22
+Musical | 6
+Animation | 11
+Adventure | 26
+Documentary | 8
+IMAX | 1
+===============
+Release Year: 1972
+===============
+Crime | 5
+Drama | 22
+Comedy | 15
+Action | 6
+Adventure | 5
+Thriller | 7
+Sci-Fi | 6
+Western | 2
+Mystery | 3
+Musical | 2
+Horror | 4
+Romance | 4
+Children | 1
+Fantasy | 1
+War | 1
+Animation | 1
+===============
+Release Year: 1943
+===============
+Adventure | 1
+Drama | 8
+Romance | 1
+War | 1
+Crime | 2
+Thriller | 2
+Horror | 2
+Western | 1
+Fantasy | 1
+===============
+Release Year: 1952
+===============
+Comedy | 7
+Musical | 1
+Romance | 6
+Drama | 9
+Western | 1
+Adventure | 2
+Sci-Fi | 1
+War | 1
+===============
+Release Year: 1951
+===============
+Musical | 5
+Romance | 7
+Adventure | 3
+Comedy | 5
+War | 3
+Animation | 1
+Children | 1
+Fantasy | 2
+Drama | 12
+Sci-Fi | 4
+Thriller | 2
+Crime | 2
+Film-Noir | 1
+Horror | 1
+Action | 1
+===============
+Release Year: 1957
+===============
+Comedy | 8
+Musical | 3
+Drama | 18
+Romance | 6
+Children | 1
+War | 4
+Adventure | 2
+Horror | 3
+Sci-Fi | 5
+Film-Noir | 1
+Thriller | 4
+Mystery | 1
+Action | 2
+Western | 1
+(no genres listed) | 1
+===============
+Release Year: 1961
+===============
+Drama | 18
+Romance | 10
+Children | 4
+Comedy | 12
+Horror | 3
+Thriller | 1
+Musical | 3
+Fantasy | 3
+Adventure | 6
+Animation | 1
+Action | 3
+War | 3
+Sci-Fi | 3
+Western | 2
+Crime | 1
+===============
+Release Year: 1958
+===============
+Drama | 11
+Mystery | 2
+Romance | 7
+Thriller | 4
+Musical | 3
+Adventure | 4
+Crime | 5
+Film-Noir | 1
+Horror | 4
+Sci-Fi | 4
+War | 3
+Action | 3
+Fantasy | 2
+Western | 1
+Comedy | 10
+===============
+Release Year: 1954
+===============
+Mystery | 2
+Thriller | 4
+Comedy | 3
+Romance | 4
+Adventure | 3
+Drama | 15
+Sci-Fi | 4
+Crime | 4
+Action | 1
+Horror | 3
+Musical | 4
+Western | 1
+Fantasy | 1
+War | 1
+Film-Noir | 1
+Animation | 1
+===============
+Release Year: 1934
+===============
+Comedy | 6
+Romance | 3
+Musical | 2
+Crime | 1
+Drama | 4
+Thriller | 1
+Children | 1
+Fantasy | 1
+Documentary | 2
+War | 1
+===============
+Release Year: 1944
+===============
+Drama | 11
+Thriller | 3
+Musical | 2
+Crime | 2
+Film-Noir | 2
+Mystery | 2
+Comedy | 4
+War | 4
+Action | 1
+Romance | 5
+Children | 1
+Adventure | 2
+===============
+Release Year: 1960
+===============
+Comedy | 7
+Drama | 19
+Romance | 6
+Children | 4
+Adventure | 3
+Crime | 7
+Horror | 8
+Thriller | 3
+Sci-Fi | 4
+Action | 4
+War | 4
+Western | 3
+Mystery | 2
+Musical | 2
+Film-Noir | 1
+Fantasy | 1
+===============
+Release Year: 1963
+===============
+Comedy | 15
+Crime | 6
+Mystery | 2
+Romance | 3
+Thriller | 7
+Animation | 1
+Children | 3
+Fantasy | 3
+Musical | 1
+Drama | 15
+Action | 5
+Adventure | 9
+War | 4
+Horror | 6
+Sci-Fi | 4
+Western | 1
+Film-Noir | 1
+===============
+Release Year: 1942
+===============
+Drama | 13
+Romance | 10
+Comedy | 9
+War | 3
+Animation | 1
+Children | 1
+Mystery | 2
+Thriller | 5
+Musical | 2
+Action | 1
+Horror | 1
+Crime | 3
+Film-Noir | 2
+===============
+Release Year: 1941
+===============
+Film-Noir | 3
+Mystery | 4
+Drama | 9
+Romance | 6
+Comedy | 8
+Animation | 1
+Children | 1
+Musical | 2
+Thriller | 2
+Fantasy | 2
+Horror | 2
+Adventure | 1
+Crime | 2
+War | 1
+===============
+Release Year: 1953
+===============
+Comedy | 9
+Drama | 17
+Romance | 7
+Musical | 6
+Adventure | 3
+Crime | 2
+War | 2
+Animation | 2
+Children | 3
+Fantasy | 2
+Thriller | 5
+Sci-Fi | 2
+Action | 3
+Western | 2
+Horror | 1
+Mystery | 1
+Film-Noir | 1
+===============
+Release Year: 1939
+===============
+Children | 4
+Drama | 15
+Adventure | 4
+Fantasy | 1
+Musical | 2
+Romance | 9
+War | 2
+Comedy | 9
+Animation | 2
+Western | 2
+Action | 1
+Crime | 2
+Mystery | 1
+Thriller | 1
+===============
+Release Year: 1950
+===============
+Drama | 10
+Film-Noir | 4
+Romance | 9
+Comedy | 6
+Animation | 1
+Children | 2
+Fantasy | 2
+Musical | 2
+Mystery | 4
+Thriller | 1
+Crime | 3
+Western | 4
+Adventure | 2
+Action | 1
+War | 1
+===============
+Release Year: 1946
+===============
+Film-Noir | 8
+Romance | 5
+Thriller | 5
+Children | 3
+Drama | 14
+Fantasy | 2
+Crime | 5
+Mystery | 4
+War | 2
+Adventure | 1
+Animation | 1
+Musical | 4
+Western | 2
+Comedy | 1
+===============
+Release Year: 1945
+===============
+Mystery | 6
+Romance | 2
+Thriller | 3
+Animation | 1
+Children | 1
+Musical | 2
+Drama | 7
+Horror | 4
+Film-Noir | 2
+Comedy | 2
+Crime | 3
+War | 3
+Fantasy | 1
+===============
+Release Year: 1938
+===============
+Action | 2
+Adventure | 1
+Romance | 4
+Comedy | 8
+Children | 2
+Drama | 9
+Fantasy | 2
+Mystery | 1
+Thriller | 2
+War | 1
+Crime | 1
+Film-Noir | 1
+Musical | 1
+Animation | 2
+===============
+Release Year: 1947
+===============
+Drama | 12
+Fantasy | 1
+Romance | 6
+Crime | 6
+Film-Noir | 6
+Comedy | 9
+Thriller | 2
+Musical | 1
+Mystery | 2
+===============
+Release Year: 1935
+===============
+Comedy | 7
+Musical | 4
+Romance | 6
+Drama | 6
+Mystery | 1
+Thriller | 1
+Horror | 1
+Sci-Fi | 1
+Adventure | 2
+Fantasy | 1
+Action | 1
+===============
+Release Year: 1936
+===============
+Comedy | 7
+Romance | 10
+Drama | 7
+Musical | 4
+Thriller | 3
+Crime | 2
+Mystery | 1
+Adventure | 2
+Film-Noir | 1
+Western | 1
+===============
+Release Year: 1956
+===============
+Drama | 18
+Romance | 4
+Western | 4
+Adventure | 5
+Comedy | 4
+Sci-Fi | 6
+Film-Noir | 4
+Thriller | 4
+Mystery | 1
+Musical | 4
+Horror | 4
+Crime | 2
+War | 1
+Children | 1
+Fantasy | 1
+===============
+Release Year: 1949
+===============
+Musical | 3
+Film-Noir | 4
+Mystery | 2
+Thriller | 3
+Drama | 15
+Adventure | 1
+Children | 2
+Comedy | 8
+Romance | 7
+Animation | 2
+War | 2
+Western | 2
+Action | 1
+Crime | 2
+Documentary | 1
+Horror | 1
+===============
+Release Year: 1932
+===============
+Romance | 4
+War | 1
+Drama | 4
+Horror | 2
+Comedy | 3
+Crime | 3
+Film-Noir | 1
+===============
+Release Year: 1975
+===============
+Children | 2
+Comedy | 12
+Western | 1
+Adventure | 7
+Fantasy | 2
+Crime | 5
+Drama | 19
+Action | 7
+Horror | 5
+Mystery | 4
+Musical | 3
+Sci-Fi | 7
+Thriller | 5
+Romance | 7
+War | 1
+Documentary | 1
+Animation | 1
+===============
+Release Year: 1974
+===============
+Children | 3
+Comedy | 13
+Fantasy | 3
+Romance | 6
+Crime | 10
+Drama | 20
+Film-Noir | 1
+Mystery | 4
+Thriller | 12
+Horror | 6
+Action | 11
+Adventure | 5
+Western | 1
+Musical | 1
+Documentary | 2
+Sci-Fi | 2
+Animation | 1
+===============
+Release Year: 1971
+===============
+Adventure | 6
+Children | 3
+Musical | 3
+Comedy | 12
+Fantasy | 1
+War | 2
+Crime | 8
+Drama | 20
+Sci-Fi | 5
+Thriller | 13
+Romance | 3
+Action | 17
+Mystery | 6
+Documentary | 1
+Western | 3
+Horror | 1
+Animation | 2
+===============
+Release Year: 1979
+===============
+Comedy | 24
+Drama | 32
+War | 3
+Action | 13
+Horror | 10
+Sci-Fi | 12
+Mystery | 3
+Romance | 5
+Thriller | 10
+Adventure | 10
+Children | 5
+Western | 2
+Fantasy | 2
+Musical | 4
+Crime | 5
+Animation | 3
+===============
+Release Year: 1987
+===============
+Drama | 56
+Musical | 2
+Romance | 28
+Action | 31
+Adventure | 17
+Comedy | 77
+Fantasy | 16
+War | 8
+Horror | 28
+Sci-Fi | 20
+Thriller | 24
+Crime | 21
+Mystery | 7
+Children | 8
+Film-Noir | 2
+Western | 3
+Animation | 9
+Documentary | 1
+===============
+Release Year: 1986
+===============
+Drama | 55
+War | 4
+Action | 27
+Romance | 15
+Mystery | 7
+Adventure | 24
+Horror | 23
+Sci-Fi | 19
+Comedy | 54
+Film-Noir | 1
+Fantasy | 10
+Musical | 4
+Thriller | 21
+Children | 10
+Animation | 9
+Crime | 19
+Western | 1
+===============
+Release Year: 1980
+===============
+Horror | 18
+Mystery | 6
+Comedy | 29
+Action | 18
+Adventure | 12
+Sci-Fi | 14
+Musical | 4
+Drama | 32
+Romance | 10
+Thriller | 10
+Children | 2
+Crime | 5
+War | 3
+Documentary | 1
+Western | 1
+Fantasy | 2
+Animation | 1
+(no genres listed) | 1
+===============
+Release Year: 1978
+===============
+Comedy | 19
+Drama | 17
+War | 4
+Musical | 2
+Romance | 2
+Horror | 12
+Thriller | 7
+Children | 6
+Sci-Fi | 8
+Action | 15
+Western | 1
+Adventure | 8
+Animation | 3
+Fantasy | 5
+Mystery | 4
+Crime | 4
+Documentary | 4
+===============
+Release Year: 1985
+===============
+Fantasy | 16
+Sci-Fi | 18
+Drama | 45
+War | 5
+Comedy | 54
+Romance | 22
+Adventure | 31
+Thriller | 18
+Horror | 16
+Action | 23
+Children | 11
+Animation | 4
+Crime | 11
+Mystery | 7
+Western | 2
+Documentary | 4
+Musical | 1
+===============
+Release Year: 1966
+===============
+Action | 4
+Adventure | 5
+Western | 3
+Drama | 18
+Thriller | 3
+Romance | 7
+Documentary | 1
+Mystery | 2
+Sci-Fi | 3
+Comedy | 19
+War | 6
+Musical | 3
+Crime | 6
+Children | 3
+Horror | 1
+Animation | 3
+Fantasy | 1
+===============
+Release Year: 1962
+===============
+Adventure | 7
+Drama | 24
+War | 4
+Crime | 4
+Thriller | 5
+Children | 2
+Action | 4
+Sci-Fi | 3
+Romance | 7
+Horror | 4
+Musical | 3
+Western | 3
+Comedy | 7
+Fantasy | 3
+Mystery | 1
+Documentary | 1
+===============
+Release Year: 1983
+===============
+Action | 15
+Adventure | 9
+Sci-Fi | 10
+Drama | 29
+Comedy | 31
+Documentary | 5
+Horror | 13
+Romance | 7
+Western | 1
+Children | 5
+Fantasy | 7
+Mystery | 4
+Thriller | 13
+War | 2
+Crime | 8
+Musical | 3
+Animation | 5
+===============
+Release Year: 1984
+===============
+Drama | 35
+Crime | 7
+Action | 17
+Sci-Fi | 18
+Thriller | 13
+Comedy | 40
+War | 5
+Romance | 12
+Horror | 12
+Adventure | 18
+Fantasy | 11
+Children | 5
+Documentary | 2
+Musical | 7
+Film-Noir | 1
+Animation | 4
+Mystery | 2
+===============
+Release Year: 1948
+===============
+Action | 3
+Adventure | 4
+Drama | 15
+Western | 2
+Crime | 4
+Thriller | 4
+Film-Noir | 3
+Comedy | 3
+Horror | 1
+Fantasy | 1
+Musical | 2
+Romance | 3
+Children | 1
+War | 1
+Mystery | 1
+===============
+Release Year: 1933
+===============
+Comedy | 5
+Musical | 4
+War | 1
+Action | 1
+Adventure | 2
+Fantasy | 2
+Horror | 3
+Sci-Fi | 1
+Drama | 4
+Romance | 4
+Crime | 1
+Mystery | 1
+Thriller | 1
+Children | 1
+===============
+Release Year: 1931
+===============
+Crime | 3
+Film-Noir | 1
+Thriller | 1
+Drama | 9
+Western | 1
+Horror | 3
+Sci-Fi | 1
+Comedy | 4
+Romance | 3
+Musical | 1
+Action | 1
+Mystery | 1
+===============
+Release Year: 1922
+===============
+Horror | 1
+===============
+Release Year: 1998
+===============
+Crime | 36
+Drama | 122
+Thriller | 52
+Horror | 14
+Comedy | 99
+Romance | 56
+Sci-Fi | 28
+Action | 47
+Children | 24
+Adventure | 31
+Film-Noir | 1
+Fantasy | 19
+Musical | 8
+Mystery | 11
+Documentary | 12
+IMAX | 3
+War | 8
+Animation | 18
+Western | 2
+===============
+Release Year: 1929
+===============
+Musical | 2
+Documentary | 1
+Fantasy | 1
+Comedy | 1
+===============
+Release Year: 1930
+===============
+Action | 1
+Drama | 4
+War | 1
+Comedy | 1
+Musical | 1
+Romance | 1
+===============
+Release Year: 1927
+===============
+Drama | 5
+Sci-Fi | 1
+Crime | 1
+Thriller | 1
+Romance | 2
+Comedy | 1
+Musical | 1
+Horror | 1
+Mystery | 1
+===============
+Release Year: 1928
+===============
+Animation | 1
+Children | 1
+Comedy | 3
+Musical | 1
+Drama | 1
+Romance | 1
+===============
+Release Year: 1999
+===============
+Comedy | 113
+Drama | 124
+War | 4
+Horror | 22
+Thriller | 48
+Sci-Fi | 17
+Romance | 46
+Action | 34
+Crime | 19
+Mystery | 14
+Animation | 8
+Children | 13
+Adventure | 19
+Fantasy | 17
+Documentary | 13
+Musical | 4
+Western | 2
+IMAX | 1
+===============
+Release Year: 2000
+===============
+Crime | 39
+Drama | 138
+Comedy | 117
+Adventure | 23
+Sci-Fi | 19
+Thriller | 59
+Romance | 57
+Horror | 23
+Mystery | 8
+Action | 39
+Animation | 18
+Children | 17
+Documentary | 14
+War | 7
+Musical | 4
+Western | 3
+Fantasy | 18
+IMAX | 1
+===============
+Release Year: 1926
+===============
+Comedy | 2
+War | 1
+Adventure | 1
+Romance | 1
+Drama | 3
+Fantasy | 1
+Horror | 1
+===============
+Release Year: 1919
+===============
+Comedy | 1
+Drama | 1
+===============
+Release Year: 1921
+===============
+Comedy | 1
+Drama | 1
+===============
+Release Year: 1925
+===============
+Adventure | 2
+Comedy | 2
+Romance | 2
+Drama | 2
+War | 1
+===============
+Release Year: 1923
+===============
+Drama | 2
+Action | 1
+Comedy | 2
+Romance | 1
+Horror | 1
+===============
+Release Year: 2001
+===============
+Crime | 36
+Drama | 148
+Thriller | 53
+Action | 48
+Comedy | 127
+Romance | 66
+Mystery | 19
+Horror | 19
+Fantasy | 20
+Animation | 17
+Children | 12
+War | 13
+Adventure | 26
+Documentary | 12
+Musical | 7
+Sci-Fi | 17
+Western | 3
+Film-Noir | 1
+===============
+Release Year: 2002
+===============
+Comedy | 116
+Crime | 49
+Action | 45
+Drama | 150
+Sci-Fi | 27
+Thriller | 72
+Adventure | 37
+Children | 19
+Fantasy | 20
+Horror | 27
+Mystery | 21
+Romance | 58
+Musical | 11
+War | 8
+Animation | 13
+IMAX | 2
+Western | 2
+Documentary | 28
+===============
+Release Year: 2003
+===============
+Comedy | 109
+Documentary | 22
+Romance | 51
+Action | 66
+Horror | 25
+Thriller | 60
+Crime | 48
+Drama | 129
+Adventure | 32
+Animation | 20
+Children | 23
+War | 11
+Sci-Fi | 23
+IMAX | 3
+Musical | 7
+Mystery | 21
+Fantasy | 18
+Western | 2
+===============
+Release Year: 1920
+===============
+Crime | 1
+Fantasy | 1
+Horror | 1
+Comedy | 1
+===============
+Release Year: 1915
+===============
+Drama | 1
+War | 1
+===============
+Release Year: 1924
+===============
+Comedy | 2
+Action | 2
+Adventure | 2
+Fantasy | 3
+Romance | 2
+Drama | 2
+Sci-Fi | 1
+Thriller | 1
+===============
+Release Year: 2004
+===============
+Comedy | 111
+Romance | 52
+Action | 63
+Crime | 36
+Drama | 128
+Sci-Fi | 31
+Thriller | 57
+Musical | 8
+Adventure | 44
+Children | 19
+Horror | 28
+Mystery | 19
+Fantasy | 29
+War | 13
+Western | 3
+Documentary | 25
+Animation | 18
+IMAX | 3
+===============
+Release Year: 1916
+===============
+Drama | 1
+Action | 1
+Adventure | 1
+Sci-Fi | 1
+Fantasy | 1
+Romance | 1
+Comedy | 1
+===============
+Release Year: 1917
+===============
+Comedy | 1
+===============
+Release Year: 2005
+===============
+Action | 59
+Adventure | 43
+Drama | 140
+Sci-Fi | 19
+Thriller | 68
+Mystery | 17
+Horror | 36
+Children | 25
+Comedy | 120
+Fantasy | 22
+IMAX | 4
+Romance | 50
+Crime | 42
+Musical | 8
+Animation | 15
+Film-Noir | 3
+Documentary | 24
+War | 12
+Western | 2
+===============
+Release Year: 2006
+===============
+Animation | 26
+Drama | 146
+Mystery | 25
+Sci-Fi | 25
+Thriller | 76
+Adventure | 38
+Crime | 35
+Comedy | 118
+Romance | 54
+Action | 49
+Fantasy | 38
+Horror | 33
+Western | 1
+Children | 22
+IMAX | 7
+Documentary | 23
+Film-Noir | 1
+Musical | 6
+War | 10
+===============
+Release Year: 1902
+===============
+Action | 1
+Adventure | 1
+Fantasy | 1
+Sci-Fi | 1
+===============
+Release Year: 1903
+===============
+Crime | 1
+Western | 1
+===============
+Release Year: 2007
+===============
+Drama | 142
+Musical | 9
+Horror | 43
+Thriller | 77
+Crime | 40
+Action | 48
+Adventure | 33
+Children | 14
+Fantasy | 24
+Comedy | 102
+Romance | 47
+Animation | 22
+Mystery | 14
+Sci-Fi | 29
+War | 13
+IMAX | 6
+Documentary | 18
+Western | 3
+(no genres listed) | 1
+===============
+Release Year: 2008
+===============
+Comedy | 104
+Romance | 47
+Action | 73
+Adventure | 50
+Fantasy | 31
+Mystery | 15
+Sci-Fi | 32
+Thriller | 60
+Crime | 40
+Drama | 113
+War | 16
+Children | 22
+IMAX | 8
+Musical | 9
+Animation | 23
+Documentary | 20
+Horror | 23
+Western | 5
+===============
+Release Year: 2009
+===============
+Action | 59
+Drama | 131
+Mystery | 24
+Sci-Fi | 44
+Thriller | 72
+IMAX | 10
+Adventure | 37
+Comedy | 111
+Romance | 41
+Horror | 41
+Fantasy | 32
+Crime | 39
+Musical | 7
+Animation | 32
+War | 7
+Children | 17
+Film-Noir | 1
+Documentary | 12
+Western | 2
+===============
+Release Year: 2010
+===============
+Action | 65
+Drama | 102
+Horror | 24
+Thriller | 56
+Comedy | 97
+Romance | 41
+Adventure | 30
+Fantasy | 29
+Mystery | 16
+Crime | 23
+Children | 17
+Sci-Fi | 19
+War | 7
+IMAX | 15
+Animation | 18
+Documentary | 17
+Musical | 6
+Western | 5
+Film-Noir | 1
+===============
+Release Year: 2011
+===============
+Drama | 110
+Fantasy | 19
+Romance | 37
+Action | 55
+Comedy | 101
+Crime | 26
+Thriller | 64
+IMAX | 20
+Adventure | 40
+Sci-Fi | 32
+Western | 2
+Documentary | 22
+Animation | 26
+Mystery | 16
+Children | 19
+War | 6
+Horror | 20
+Film-Noir | 2
+Musical | 3
+===============
+Release Year: 2012
+===============
+Action | 56
+Adventure | 31
+Sci-Fi | 28
+IMAX | 25
+Crime | 32
+Film-Noir | 1
+Drama | 92
+Thriller | 54
+Comedy | 103
+Musical | 7
+Fantasy | 23
+Horror | 27
+War | 5
+Mystery | 9
+Romance | 31
+Animation | 25
+Children | 10
+Documentary | 11
+Western | 1
+===============
+Release Year: 2013
+===============
+Comedy | 89
+Horror | 22
+Romance | 27
+Mystery | 14
+Thriller | 50
+Action | 61
+Crime | 35
+Drama | 98
+Animation | 26
+Sci-Fi | 32
+Fantasy | 28
+IMAX | 29
+Adventure | 39
+Documentary | 8
+Children | 8
+Western | 1
+War | 6
+Musical | 1
+(no genres listed) | 2
+===============
+Release Year: 2014
+===============
+Action | 62
+Thriller | 60
+Comedy | 116
+Drama | 117
+IMAX | 14
+Adventure | 35
+Romance | 35
+Sci-Fi | 32
+Fantasy | 15
+War | 8
+Animation | 15
+Children | 15
+Crime | 38
+Mystery | 16
+Horror | 28
+Documentary | 17
+Western | 3
+Musical | 5
+===============
+Release Year: 2015
+===============
+Action | 63
+Adventure | 45
+Thriller | 57
+Sci-Fi | 41
+Drama | 101
+Mystery | 16
+Comedy | 104
+Crime | 30
+Fantasy | 21
+Horror | 36
+IMAX | 1
+Romance | 21
+Animation | 19
+Children | 14
+Musical | 1
+Documentary | 19
+Western | 4
+(no genres listed) | 3
+War | 2
+===============
+Release Year: 2016
+===============
+(no genres listed) | 7
+Action | 48
+Adventure | 36
+Fantasy | 22
+Comedy | 75
+Sci-Fi | 29
+Thriller | 41
+Animation | 22
+Crime | 15
+Drama | 69
+Romance | 18
+Horror | 16
+Mystery | 8
+Children | 13
+War | 3
+Documentary | 13
+Western | 1
+===============
+Release Year: 2017
+===============
+(no genres listed) | 4
+Action | 38
+Adventure | 24
+Sci-Fi | 18
+Fantasy | 14
+Drama | 45
+Horror | 13
+Thriller | 22
+Documentary | 10
+Comedy | 56
+Animation | 18
+Mystery | 6
+Crime | 13
+Romance | 6
+Children | 9
+Western | 2
+War | 3
+===============
+Release Year: 2018
+===============
+Action | 16
+Adventure | 12
+Sci-Fi | 13
+Mystery | 5
+Thriller | 13
+Crime | 6
+Drama | 9
+Horror | 4
+Comedy | 17
+Animation | 3
+Fantasy | 7
+Children | 3
+Documentary | 2
+Romance | 1
+===============
+Release Year: 1908
+===============
+Animation | 1
+Comedy | 1
+Sci-Fi | 1
+===============
